@@ -1,3 +1,8 @@
+```
+npm install -D @types/express @types/jest @types/node nodemon prettier ts-jest tslint tslint-config-prettier typescript
+npm install express
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
