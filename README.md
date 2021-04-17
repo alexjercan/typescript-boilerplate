@@ -1,4 +1,5 @@
 ```
+npm install -g ts-node
 npm install -D @types/express @types/jest @types/node nodemon prettier ts-jest tslint tslint-config-prettier typescript
 npm install express
 ```
